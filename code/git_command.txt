@@ -1,0 +1,8 @@
+1. git init
+2. git add .
+3. git commit -m "initial comment"
+4. git remote add origin <remote url>
+5. git remote -v
+6. git push -f origin master
+7. git push origin master 
+8. git status
